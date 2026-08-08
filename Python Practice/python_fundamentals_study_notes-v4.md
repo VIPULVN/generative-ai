@@ -1084,6 +1084,7 @@ print(f"Calculated sum (While True Loop): {total_sum}") # Output: 1000.5 [24]
 
 ---
 
+
 ### 3.8.2 Case Study 2: Collection Deduplication (Manual vs. Set Cast)
 **The Problem:** We ingest customer IDs from transaction logs. Because customers purchase multiple items, the log contains duplicate IDs [29]:
 ```python
